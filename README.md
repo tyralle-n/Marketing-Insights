@@ -8,7 +8,8 @@ The goal was to evaluate multi-channel marketing campaign performance across two
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-Business Problem
+Business Problem:
+
 The marketing department has invested in multiple campaigns across various channels, locations, and customer segments but lacks clarity on which strategies are driving meaningful financial returns.
 The objective of this analysis is to:
 •	Identify high-performing channels and campaign types
@@ -17,7 +18,8 @@ The objective of this analysis is to:
 •	Provide data-driven recommendations for future budget allocation
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-Dataset Overview
+Dataset Overview:
+
 Source: Kaggle – Marketing Campaign Performance Dataset (https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset)
 200,000 campaign records spanning two years.
 The dataset includes:
