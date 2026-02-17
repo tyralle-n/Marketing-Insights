@@ -57,6 +57,7 @@ Subqueries
 Window functions (ROW_NUMBER, DENSE_RANK)
 
 Common Table Expressions (CTEs)
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 📈 Dashboard Features (Power BI)
 
@@ -73,4 +74,14 @@ Engagement performance by channel
 Interactive slicers for Customer Segment and Target Audience
 
 ROI is expressed as a return multiple (x), indicating revenue generated per unit of cost.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+🔍 Key Insights
+
+Website and Instagram demonstrate consistently strong ROI performance.
+
+Google Ads shows higher acquisition cost and cost-per-click compared to other channels.
+
+Engagement levels are relatively balanced across channels.
+
+Quarterly fluctuations highlight potential optimization opportunities in specific channels.
