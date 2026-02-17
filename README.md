@@ -28,8 +28,6 @@ The dataset includes:
 •	Engagement metrics (Clicks, Impressions, Engagement Score)
 •	Targeting attributes (Customer Segment, Target Audience)
 
-<img width="1170" height="659" alt="Screenshot (2796)" src="https://github.com/user-attachments/assets/0b9e6673-f32a-4abc-b07d-011a52d60ce9" />
-
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 🛠 Tools & Technologies
@@ -79,6 +77,9 @@ Engagement performance by channel
 Interactive slicers for Customer Segment and Target Audience
 
 ROI is expressed as a return multiple (x), indicating revenue generated per unit of cost.
+
+<img width="1170" height="659" alt="Screenshot (2796)" src="https://github.com/user-attachments/assets/56bb9fd0-2ea7-4b7c-ac8f-35dcc58fe31c" />
+
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 🔍 Key Insights
