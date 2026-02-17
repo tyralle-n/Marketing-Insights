@@ -27,6 +27,9 @@ The dataset includes:
 •	Performance metrics (Conversion Rate, ROI, Acquisition Cost)
 •	Engagement metrics (Clicks, Impressions, Engagement Score)
 •	Targeting attributes (Customer Segment, Target Audience)
+
+<img width="1170" height="659" alt="Screenshot (2796)" src="https://github.com/user-attachments/assets/0b9e6673-f32a-4abc-b07d-011a52d60ce9" />
+
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 🛠 Tools & Technologies
